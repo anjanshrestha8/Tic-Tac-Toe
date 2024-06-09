@@ -1,0 +1,11 @@
+.tiles {
+  color: currentColor;
+  font-size: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.right-border {
+  border-right: 0.2em solid #0074a6;
+}
