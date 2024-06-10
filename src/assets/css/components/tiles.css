@@ -9,3 +9,7 @@
 .right-border {
   border-right: 0.2em solid #0074a6;
 }
+
+.left-border {
+  border-left: 0.2em solid #0074a6;
+}
